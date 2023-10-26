@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "imagen": "img/pregunta1.jpg",
+        "pregunta": "¿Con qué se pincha el dedo la princesa Aurora en la Bella Durmiente?",
+        "opciones": ["Con una Rueca", "Con una aguja de costura", "Con la espina de una rosa"],
+        "respuesta": "Con una Rueca"
+    },
+    {
+        "id": 2,
+        "imagen": "img/pregunta2.jpg",
+        "pregunta": "¿Cómo se llama la empresa en dónde trabajaba Mr.Increíble?",
+        "opciones": ["Sanitas", "Seguritas", "Síndrome"],
+        "respuesta": "Seguritas"
+    },
+    {
+        "id": 3,
+        "imagen": "img/pregunta3.jpg",
+        "pregunta": "¿Cuál de las siguientes películas no es de Disney?",
+        "opciones": ["Ralph el Demoledor", "Intensamente", "Shrek"],
+        "respuesta":"Shrek"
+    },
+    {
+        "id": 4,
+        "imagen": "img/pregunta4.jpg",
+        "pregunta": "¿Qué película se considera el primer largometraje animado de la historia?",
+        "opciones": ["Cenicienta", "Steamboat Willie", "Blancanieves y los siete enanos"],
+        "respuesta":"Blancanieves y los siete enanos"
+    },
+    {
+        "id": 5,
+        "imagen": "img/pregunta5.jpg",
+        "pregunta": "¿Qué animal piensa Lilo que es Stitch cuando lo adopta?",
+        "opciones": ["Gato", "Perro", "Panda"],
+        "respuesta":"Perro"
+    },
+    {
+        "id": 6,
+        "imagen": "img/pregunta6.jpg",
+        "pregunta": "¿Quién es el personaje de la imágen?",
+        "opciones": ["Milo Tatch", "Moliére", "Jumba"],
+        "respuesta":"Milo Tatch"
+    },
+    {
+        "id": 7,
+        "imagen": "img/pregunta7.jpg",
+        "pregunta": "¿Cómo se llaman los Ayudantes de Hades?",
+        "opciones": ["Ira y Miedo", "Tristeza y Enojo", "Pánico y Pena"],
+        "respuesta":"Pánico y Pena"
+    },
+    {
+        "id": 8,
+        "imagen": "img/pregunta8.jpg",
+        "pregunta": "¿Porqué Mulán se alistó en el ejército imperial?",
+        "opciones": ["Para evitar que fuera su padre enfermo", "Por que estaba enamorada de Li Sang", "Para vengar la muerte de su abuelo"],
+        "respuesta":"Para evitar que fuera su padre enfermo"
+    },
+    {
+        "id": 9,
+        "imagen": "img/pregunta9.jpg",
+        "pregunta": "En la Bella y la Bestia,¿Quién es el amigo de Gastón?",
+        "opciones": ["Lumiere", "Lefou", "Maurice"],
+        "respuesta": "Lefou"
+    },
+    {
+        "id": 10,
+        "imagen": "img/pregunta10.jpg",
+        "pregunta": "¿Quién hace la voz original de Elsa en Frozen?",
+        "opciones": ["Lea Michelle", "Eva Noblezada", "Idina Menzel"],
+        "respuesta":"Idina Menzel"
+    }
+]
